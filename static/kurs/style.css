@@ -1,0 +1,457 @@
+body {
+    margin: 0;
+    line-height: normal;
+}    
+
+.slide-169-7-child {
+    position: absolute;
+    top: 120px;
+    left: 280px;
+    border-radius: 111px;
+    background-color: #e5d3c6;
+    width: 1360px;
+    height: 285px;
+}
+
+.slide-169-7-item {
+    position: absolute;
+    top: 165px;
+    left: 910px;
+    border-radius: 50%;
+    background-color: #cdbba7;
+    width: 100px;
+    height: 100px;
+}
+
+.h {
+    position: absolute;
+    top: 179px;
+    left: 938px;
+    font-weight: 900;
+    color: #644a32;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 44px;
+    height: 72px;
+}
+
+.b {
+    position: absolute;
+    top: 283px;
+    left: 649px;
+}
+
+.b1 {
+    position: absolute;
+    top: 0px;
+    left: 406px;
+    font-size: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 569px;
+}
+
+.line-11-stroke {
+    position: absolute;
+    top: 126.5px;
+    left: 71.33px;
+    width: 1291.3px;
+    height: 31px;
+}
+
+.line-12-stroke {
+    position: absolute;
+    top: 127px;
+    left: 71.33px;
+    width: 448.3px;
+    height: 31px;
+}
+
+.group-child {
+    position: absolute;
+    top: 168.5px;
+    left: 91.5px;
+    border-right: 1px solid #000;
+    box-sizing: border-box;
+    width: 1px;
+    height: 32px;
+}
+
+.group-item {
+    position: absolute;
+    top: 168px;
+    left: 319.71px;
+    border-right: 1px solid #000;
+    box-sizing: border-box;
+    width: 1px;
+    height: 32px;
+}
+
+.line-div {
+    position: absolute;
+    top: 168px;
+    left: 566.06px;
+    border-right: 1px solid #000;
+    box-sizing: border-box;
+    width: 1px;
+    height: 32px;
+}
+
+.group-child1 {
+    position: absolute;
+    top: 168px;
+    left: 812.42px;
+    border-right: 1px solid #000;
+    box-sizing: border-box;
+    width: 1px;
+    height: 32px;
+}
+
+.group-child2 {
+    position: absolute;
+    top: 168px;
+    left: 1058.78px;
+    border-right: 1px solid #000;
+    box-sizing: border-box;
+    width: 1px;
+    height: 32px;
+}
+
+.group-child3 {
+    position: absolute;
+    top: 167.5px;
+    left: 1291.5px;
+    border-right: 1px solid #000;
+    box-sizing: border-box;
+    width: 1px;
+    height: 32px;
+}
+
+.b2 {
+    position: absolute;
+    top: 220px;
+    left: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 184px;
+}
+
+.b3 {
+    position: absolute;
+    top: 220px;
+    left: 237px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 166px;
+}
+
+.b4 {
+    position: absolute;
+    top: 220px;
+    left: 484px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 166px;
+}
+
+.b5 {
+    position: absolute;
+    top: 220px;
+    left: 728px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 169px;
+}
+
+.b6 {
+    position: absolute;
+    top: 220px;
+    left: 984px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 149px;
+}
+
+.b7 {
+    position: absolute;
+    top: 220px;
+    left: 1220px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 144px;
+}
+
+.parent {
+    position: absolute;
+    top: 460px;
+    left: 269px;
+    width: 1364px;
+    height: 249px;
+    font-size: 24px;
+}
+
+.b8 {
+    position: absolute;
+    top: 0px;
+    left: 403px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 504.6px;
+}
+
+.rectangle-div {
+    position: absolute;
+    top: 169px;
+    left: 2px;
+    background-color: #f4dfd0;
+    width: 1362px;
+    height: 694px;
+}
+
+.group-child4 {
+    position: absolute;
+    top: 169px;
+    left: 0px;
+    background-color: #dad0c2;
+    width: 1364px;
+    height: 65px;
+}
+
+.div {
+    position: absolute;
+    top: 180px;
+    left: 326px;
+    font-size: 36px;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    width: 739px;
+}
+
+.group {
+    position: absolute;
+    top: 750px;
+    left: 269px;
+    width: 1364px;
+    height: 863px;
+}
+
+.slide-169-7-inner {
+    position: absolute;
+    top: 1013px;
+    left: 481px;
+    border-radius: 62px;
+    width: 942px;
+    height: 552px;
+    object-fit: cover;
+}
+
+.ellipse-div {
+    position: absolute;
+    top: 1178px;
+    left: 864px;
+    border-radius: 50%;
+    background-color: #ffe8d8;
+    width: 176px;
+    height: 176px;
+}
+
+.polygon-icon {
+    position: absolute;
+    top: 1215px;
+    left: 908px;
+    width: 141.9px;
+    height: 139.4px;
+    object-fit: contain;
+    width: 106px;
+    height: 98px;
+    flex-shrink: 0;
+}
+
+.div2 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: rgba(81, 81, 81, 0.5);
+}
+
+.icon {
+    position: absolute;
+    height: 80.58%;
+    width: 26.46%;
+    top: 11.66%;
+    right: 36.77%;
+    bottom: 7.76%;
+    left: 36.77%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+    cursor: pointer;
+}
+
+.group-icon {
+    position: absolute;
+    height: 100%;
+    width: 30.61%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 69.39%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    cursor: pointer;
+}
+
+.group-child5 {
+    position: absolute;
+    height: 100%;
+    width: 30.61%;
+    top: 0%;
+    right: 34.69%;
+    bottom: 0%;
+    left: 34.69%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    cursor: pointer;
+}
+
+.group-child6 {
+    position: absolute;
+    height: 100%;
+    width: 30.61%;
+    top: 0%;
+    right: 69.39%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    cursor: pointer;
+}
+
+.group-parent {
+    position: absolute;
+    height: 46.73%;
+    width: 7.66%;
+    top: 27%;
+    right: 2.4%;
+    bottom: 26.27%;
+    left: 83.95%;
+}
+
+.div1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    backdrop-filter: blur(10px);
+    width: 1920px;
+    height: 96.3px;
+}
+
+.button-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 42px;
+    background-color: rgba(217, 217, 217, 0);
+    border: 4px solid #888;
+    box-sizing: border-box;
+}
+
+.div3 {
+    position: absolute;
+    width: 100%;
+    top: 21.79%;
+    left: 0%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button {
+    position: absolute;
+    top: 1668px;
+    left: 588px;
+    width: 329px;
+    height: 78px;
+    font-size: 36px;
+    color: #888;
+}
+
+.button1 {
+    position: absolute;
+    top: 1668px;
+    left: 999px;
+    width: 329px;
+    height: 78px;
+    font-size: 36px;
+    color: #888;
+}
+
+.button-inner {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 42px;
+    background-color: rgba(217, 217, 217, 0);
+    border: 4px solid #fff;
+    box-sizing: border-box;
+}
+
+.div5 {
+    position: absolute;
+    width: 100%;
+    top: 11.63%;
+    left: 0%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button2 {
+    position: absolute;
+    top: 18px;
+    left: 12px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    width: 193px;
+    height: 59px;
+    cursor: pointer;
+    font-size: 36px;
+    color: #fff;
+}
+
+.slide-169-7 {
+    width: 100%;
+    position: relative;
+    background-color: #fdf2ef;
+    height: 1808px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 64px;
+    color: #000;
+    font-family: Inter;
+}
