@@ -1,0 +1,213 @@
+.slide {
+  background-color: #fdf2ef;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.slide .overlap-wrapper {
+  background-color: #fdf2ef;
+  width: 1920px;
+  height: 1080px;
+}
+
+.slide .overlap {
+  width: 1370px;
+  top: 161px;
+  left: 280px;
+  position: relative;
+  height: 757px;
+}
+
+.slide .group {
+  position: absolute;
+  width: 1370px;
+  height: 757px;
+  top: 0;
+  left: 0;
+}
+
+.slide .overlap-group {
+  width: 1360px;
+  position: relative;
+  height: 757px;
+}
+
+.slide .rectangle {
+  position: absolute;
+  width: 1323px;
+  height: 757px;
+  top: 0;
+  left: 37px;
+  background-color: #f4dfd0;
+  border-radius: 80px;
+}
+
+.slide .img {
+  position: absolute;
+  width: 502px;
+  height: 753px;
+  top: 0;
+  left: 0;
+}
+
+.slide .view {
+  position: absolute;
+  width: 386px;
+  height: 49px;
+  top: 560px;
+  left: 67px;
+  background-image: url(https://c.animaapp.com/QracF4dZ/img/----@2x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.slide .text-wrapper {
+  width: 275px;
+  top: 88px;
+  left: 774px;
+  font-size: 40px;
+  position: absolute;
+  font-family: "Inder", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.slide .div {
+  position: absolute;
+  width: 672px;
+  height: 3px;
+  top: 384px;
+  left: 546px;
+  background-color: #dad0c2;
+  border-radius: 50px;
+}
+
+.slide .rectangle-2 {
+  position: absolute;
+  width: 672px;
+  height: 3px;
+  top: 251px;
+  left: 546px;
+  background-color: #dad0c2;
+  border-radius: 50px;
+}
+
+.slide .rectangle-3 {
+  position: absolute;
+  width: 672px;
+  height: 3px;
+  top: 510px;
+  left: 546px;
+  background-color: #dad0c2;
+  border-radius: 50px;
+}
+
+.slide .text-wrapper-2 {
+  width: 160px;
+  top: 336px;
+  left: 546px;
+  font-size: 40px;
+  position: absolute;
+  font-family: "Inder", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.slide .text-wrapper-3 {
+  width: 160px;
+  top: 201px;
+  left: 546px;
+  font-size: 40px;
+  position: absolute;
+  font-family: "Inder", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.slide .text-wrapper-4 {
+  width: 176px;
+  top: 460px;
+  left: 546px;
+  font-size: 40px;
+  position: absolute;
+  font-family: "Inder", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.slide .text-wrapper-5 {
+  width: 331px;
+  height: 45px;
+  top: 643px;
+  left: 745px;
+  font-size: 36px;
+  position: absolute;
+  font-family: "Inder", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.slide .styled-button {
+  position: absolute;
+  width: 329px;
+  height: 78px;
+  top: 560px;
+  left: 747px;
+  border-radius: 42px;
+  border: 4px solid;
+  border-color: #ffffff;
+}
+
+.slide .text-wrapper-6 {
+  position: absolute;
+  width: 329px;
+  height: 44px;
+  top: 12px;
+  left: -4px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.slide .rectangle-4 {
+  position: absolute;
+  width: 512px;
+  height: 53px;
+  top: 201px;
+  left: 706px;
+  background-color: #e5d3c6;
+}
+
+.slide .rectangle-5 {
+  position: absolute;
+  width: 512px;
+  height: 53px;
+  top: 460px;
+  left: 706px;
+  background-color: #e5d3c6;
+}
+
+.slide .rectangle-6 {
+  position: absolute;
+  width: 512px;
+  height: 53px;
+  top: 336px;
+  left: 706px;
+  background-color: #e5d3c6;
+}
