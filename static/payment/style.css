@@ -1,0 +1,301 @@
+.slide {
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.slide .overlap-wrapper {
+    width: 1568px;
+    height: 913px;
+}
+
+.slide .overlap {
+    position: relative;
+    width: 1366px;
+    height: 637px;
+    top: 138px;
+    left: 102px;
+}
+
+.slide .group {
+    position: absolute;
+    width: 1366px;
+    height: 637px;
+    top: 0;
+    left: 0;
+}
+
+.slide .overlap-group {
+    position: relative;
+    width: 1364px;
+    height: 637px;
+    background-color: #f4dfd0;
+    border-radius: 80px;
+}
+
+.slide .div {
+    position: absolute;
+    width: 1097px;
+    height: 53px;
+    top: 293px;
+    left: 161px;
+}
+
+.slide .rectangle {
+    position: absolute;
+    width: 1095px;
+    height: 2px;
+    top: 51px;
+    left: 0;
+    background-color: #dad0c2;
+    border-radius: 50px;
+}
+
+.slide .text-wrapper {
+    width: 350px;
+    top: 0;
+    left: 0;
+    font-size: 40px;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "Inder-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.slide .group-2 {
+    position: absolute;
+    width: 1097px;
+    height: 53px;
+    top: 191px;
+    left: 161px;
+}
+
+.slide .text-wrapper-2 {
+    width: 183px;
+    top: 0;
+    left: 0;
+    font-size: 40px;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "Inder-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.slide .group-3 {
+    position: absolute;
+    width: 863px;
+    height: 47px;
+    top: 395px;
+    left: 161px;
+}
+
+.slide .rectangle-2 {
+    position: absolute;
+    width: 719px;
+    height: 2px;
+    top: 45px;
+    left: 142px;
+    background-color: #dad0c2;
+    border-radius: 50px;
+}
+
+.slide .text-wrapper-3 {
+    width: 537px;
+    top: 0;
+    left: 0;
+    font-size: 40px;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "Inder-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.slide .element {
+    width: 666px;
+    top: 57px;
+    left: 379px;
+    font-size: 40px;
+    position: absolute;
+    font-family: "Inder-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.slide .div-wrapper {
+    position: absolute;
+    width: 894px;
+    height: 38px;
+    top: 579px;
+    left: 267px;
+}
+
+.slide .p {
+    width: 892px;
+    height: 38px;
+    top: 0;
+    left: 0;
+    font-size: 20px;
+    position: absolute;
+    font-family: "Inder-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.slide .span {
+    font-family: "Inder-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+}
+
+.slide .text-wrapper-4 {
+    text-decoration: underline;
+}
+
+.slide .overlap-group-wrapper {
+    position: absolute;
+    width: 330px;
+    height: 60px;
+    top: 491px;
+    left: 517px;
+}
+
+.slide .overlap-2 {
+    position: relative;
+    width: 332px;
+    height: 60px;
+}
+
+.slide .group-4 {
+    position: absolute;
+    width: 332px;
+    height: 60px;
+    top: 0;
+    left: 0;
+}
+
+.slide .overlap-group-2 {
+    position: relative;
+    width: 330px;
+    height: 60px;
+    background-color: #cdbba7;
+    border-radius: 42px;
+}
+
+.slide .text-wrapper-5 {
+    width: 208px;
+    height: 34px;
+    top: 12px;
+    left: 107px;
+    font-size: 36px;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "Inder-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.slide .credit-card {
+    position: absolute;
+    width: 29px;
+    height: 17px;
+    top: 22px;
+    left: 36px;
+}
+
+.slide .group-5 {
+    position: absolute;
+    width: 218px;
+    height: 60px;
+    top: 491px;
+    left: 161px;
+}
+
+.slide .group-6 {
+    width: 220px;
+    height: 60px;
+}
+
+.slide .overlap-group-3 {
+    position: relative;
+    width: 218px;
+    height: 60px;
+    background-color: #cdbba7;
+    border-radius: 42px;
+}
+
+.slide .text-wrapper-6 {
+    width: 190px;
+    height: 35px;
+    top: 12px;
+    left: 20px;
+    font-size: 36px;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "Inder-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.slide .check-box {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 575px;
+    left: 224px;
+    border-radius: 12.5px;
+    border: 4px solid;
+    border-color: #ffffff;
+}
+
+.slide .rectangle-3 {
+    position: absolute;
+    width: 703px;
+    height: 53px;
+    top: 191px;
+    left: 554px;
+    background-color: #e5d3c6;
+}
+
+.slide .rectangle-4 {
+    position: absolute;
+    width: 704px;
+    height: 53px;
+    top: 291px;
+    left: 553px;
+    background-color: #e5d3c6;
+}
+
+.slide .rectangle-5 {
+    position: absolute;
+    width: 704px;
+    height: 53px;
+    top: 389px;
+    left: 553px;
+    background-color: #e5d3c6;
+}
+
+.inp {
+    font-size: 30px;
+    padding-left: 30px;
+}
